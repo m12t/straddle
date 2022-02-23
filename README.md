@@ -1,4 +1,4 @@
-The straddle algo is a long-only nearest-tenor option buying algorithm that seeks to buy volatility. It is not complete and if you deploy this, you will almost surely lose money for which I cannot be held liable.
+The straddle algo is a long-only nearest-tenor option buying algorithm that seeks to buy volatility. It is for educational purposes only, it is not suggested that you run this program, much less deploy it live. It will almost surely lose you money.
 
 components:
 1. a model for triggering a buy signal based on specific parameters. Feel free to plug your own ML or non-ML model in and tweak the feature vector as needed.
